@@ -1,0 +1,34 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~¿ØÖÆ°å.PRJPCB|ReportField=ProjectFullPath~D:\forklift\²æ³µÉÏ°å\¿ØÖÆ°å.PRJPCB|ReportField=Title~Bill of Materials For Project [¿ØÖÆ°å.PRJPCB] (No PCB Document Selected)|ReportField=TotalQuantity~127|ReportField=ReportTime~14:17:41|ReportField=ReportDate~2014/9/16|ReportField=ReportDateTime~2014/9/16 14:17:41|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=~¿Õµ÷¿ØÖÆÆ÷¼ÌµçÆ÷°æ|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~Dolphi|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2014/9/16|ReportField=CurrentTime~14:17:36|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\forklift\²æ³µÉÏ°å\¿ØÖÆ°å.SchDoc|ReportField=DocumentName~¿ØÖÆ°å.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~Dolphi|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2014/9/16|ReportField=Organization~|ReportField=ProjectName~¿ØÖÆ°å.PRJPCB|ReportField=Revision~4.0|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~¿ØÖÆ°å.PRJPCB|ReportField=DataSourceFullPath~D:\forklift\²æ³µÉÏ°å\¿ØÖÆ°å.PRJPCB
+0.1uF|Capacitor|C1, C2, C3, C4, C5, C6, C7, C16, C17, C18, C19, C20, C21, C22, C23, C24, C27, C28, C29, C30, C31, C32, C33, C34|C0805|Cap|24
+22pF|Capacitor|C8, C11|C0805|Cap|2
+100pF|Capacitor|C9, C10|C0805|Cap|2
+0.01uF|Capacitor|C12, C25, C26|C0805|Cap|3
+10uF/16V|Polarized Capacitor (Surface Mount), [NoValue]|C13, CA2|3528cap|Cap Pol3, ECAP|2
+15pF|Capacitor|C14, C15|C0805|Cap|2
+4.7UF/16V||CA1|3528cap|ECAP|1
+ISP||JP1|PIN-FHEADER-1*6-2.54|Header1*6|1
+Header2*16||JP2|PIN-S-2.54-2*16|Header2*16|1
+Header2*4||JP5|PIN-S-2.54-2*4|Header2*4|1
+KEY||K0|KEY-DIP|KEY|1
+SW-SPST|Single-Pole, Single-Throw Switch|K1, K2, K3, K4, K5, K6|KEY-DIP|SW-SPST|6
+82UH|Inductor|L1|R0805|Inductor|1
+0805/Green||LED1|LED-0805|ASD-0012AA|1
+Header 10X2|Header, 10-Pin, Dual row|P1|IDC-20|Header 10X2|1
+Header 5X2|Header, 5-Pin, Dual row|P2|HDR2X5|Header 5X2|1
+Header 23X2|Header, 23-Pin, Dual row|P3, P4|HDR2X23|Header 23X2|2
+10K|Resistor|R1, R2, R3, R4, R14, R56, R57, R58, R60, R61, R62, R63, R64, R65, R66|R0805|Res2, Res3, Res2, Res2, Res2, Res2, Res2, Res2, Res2, Res2, Res2, Res2, Res2, Res2, Res2|15
+22¦¸|Semiconductor Resistor|R5, R6, R7, R8, R9, R10, R11, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28|R0805|Res Semi|21
+3.3K|Resistor|R12, R13|R0805|Res2|2
+270¦¸|Semiconductor Resistor|R29, R30|R0805|Res Semi|2
+2K|Semiconductor Resistor|R31|R0805|Res Semi|1
+33¦¸|Resistor|R32, R33, R34, R35, R36, R37, R42, R43, R44, R45, R46, R47, R48, R49, R50, R51, R52, R53, R54, R55, R59|R0805|Res2|21
+51¦¸|Semiconductor Resistor|R38, R39, R40, R41|R0805|Res Semi|4
+1K/1%/0805/1/8W||R67|R-0805|ASR-0028BA|1
+AS1117-3.3V||U1|SOT-223|AS1117|1
+STM32||U2|LQFP64|STM32F103RE|1
+EPM240GT100C5N|MAX II 1.8V CPLD, 80 IOs, 240 Logic Elements, 100-Pin Plastic TQFP, Commercial Temperature, Speed Grade 5, Pb-Free|U3|TQFP100_N|EPM240GT100C5N|1
+ENC28J60||U4|ENC28J60-ss|ENC28J60|1
+HR911105A-RJ45||U5|HR911105A|HR911105A-RJ45|1
+oscillator||U6|JZ|oscillator|1
+8MHZ|Crystal Oscillator|Y1|XTAL|XTAL|1
+25M|Crystal Oscillator|Y2|xtal|XTAL|1
